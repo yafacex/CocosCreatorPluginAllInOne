@@ -1,5 +1,8 @@
 # 场景闪电编介绍
 
+qq群：[1005282725](https://jq.qq.com/?_wv=1027&k=KnngtYjd)
+商店地址：https://store.cocos.com/#/resources/detail/2549
+
 为了丰富CocosCreator的编辑和布局能力，尤其时快捷键的使用。特设计了场景闪电编插件。 支持以下功能。
 
 - 强化节点选择能力：通过点击面板里的按钮或者直接使用快捷键。快速选中想要的节点。
