@@ -17,3 +17,6 @@
 
 * svn资源自动同步插件
     * [svn资源自动同步插件](./svn资源同步/README.md)
+
+* svn/git内嵌插件
+    * [svn/git内嵌插件](./svn_git内嵌插件/README.md)
