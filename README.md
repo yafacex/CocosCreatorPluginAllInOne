@@ -4,3 +4,4 @@
 * [svn资源自动同步插件](./svn资源同步/README.md)
 * [发布上传插件](./发布上传插件/README.md)
 * [svn_git内嵌插件](./svn_git内嵌插件/README.md)
+* [soft2d柔体模拟插件](./soft2d柔体模拟/README.md)

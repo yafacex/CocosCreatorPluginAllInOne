@@ -21,3 +21,8 @@
 
 * svn/git内嵌插件
     * [svn/git内嵌插件](./svn_git内嵌插件/README.md)
+
+* soft2d柔体模拟插件
+    * [soft2d柔体模拟插件](./soft2d柔体模拟/README.md)
+    * [绳子和布料](./soft2d柔体模拟/绳子和布料/绳子和布料.md)
+    * [柔性骨骼](./soft2d柔体模拟/柔性骨骼/柔性骨骼.md)
